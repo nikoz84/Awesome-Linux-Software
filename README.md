@@ -251,7 +251,7 @@ Two Chinese version of this list are available [here](https://github.com/alim0x/
 - [Extension Postgresql Plv8](https://github.com/plv8/plv8) - PL/v8 is a shared library that provides a PostgreSQL procedural language powered by V8 JavaScript Engine. With this program you can write in JavaScript your function that is callable from SQL.
 - [DockStation](https://dockstation.io/) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 - [Webmin](http://www.webmin.com/) - Webmin is a web-based interface for system administration for Unix. Using any modern web browser, you can setup user accounts, Apache, DNS, file sharing and much more. Webmin removes the need to manually edit Unix configuration files like /etc/passwd, and lets you manage a system from the console or remotely. See the standard modules page for a list of all the functions built into Webmin. Admin your server from the web browser.
-- [Httpie](https://httpie.org/) - HTTPie consists of a single http command designed for painless debugging and interaction with HTTP servers, RESTful APIs, and web services: Sensible defaults Expressive and intuitive command syntax Colorized and formatted terminal output Built-in JSON support Persistent sessions Forms and file uploads HTTPS, proxies, and authentication support Support for arbitrary request data and headers Wget-like downloads Extensions Linux, Mac OSX, and Windows support
+
 
 ### E-Book Utilities
 - [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader. [![Open-Source Software][OSS Icon]](https://github.com/babluboy/bookworm) ![Freeware][Freeware Icon]
@@ -640,6 +640,7 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [SMPlayer](http://smplayer.sourceforge.net/) - Free Media Player with built-in codecs. Play all audio and video formats.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/)![Freeware][Freeware Icon]
 - [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP allows you to watch any video on your desktop computer using frame interpolation as it is available on high-end TVs and projectors.![Freeware][Freeware Icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html)![Freeware][Freeware Icon]
+- [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
 
 ### Others
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) ![Freeware][Freeware Icon]
@@ -668,6 +669,8 @@ firewall zones to define the trust level of network connections or interfaces. !
 - [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
+- [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/) - ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files. 
+- [Httpie](https://httpie.org/) - HTTPie consists of a single http command designed for painless debugging and interaction with HTTP servers, RESTful APIs, and web services: Sensible defaults Expressive and intuitive command syntax Colorized and formatted terminal output Built-in JSON support Persistent sessions Forms and file uploads HTTPS, proxies, and authentication support Support for arbitrary request data and headers Wget-like downloads Extensions Linux, Mac OSX, and Windows support
 
 
 ## Desktop Environments
